@@ -1,6 +1,6 @@
-# cpp_app
+# cpp-app
 
-cpp_app is a C++ application that retrieves data from a public API in JSON format and displays it to the user using the ImGui library.
+cpp-app is a C++ application that retrieves data from a public API in JSON format and displays it to the user using the ImGui library.
 This program demonstrates how to integrate HTTP requests and JSON parsing in a C++ application and visualize the data.
 
 
@@ -23,6 +23,7 @@ To run this application, you need to have the following installed:
   - [ImGui](https://github.com/ocornut/imgui): A bloat-free graphical user interface library for C++.
   - [cpp-httplib](https://github.com/yhirose/cpp-httplib): A single-file C++ header-only HTTP/HTTPS server and client library.
 
+-Before building: Click on 'ConnectedApp' at the solution explorer, and than: 'Set as Startup Project'. 
 
 ### Cloning the Repository
 
@@ -30,5 +31,5 @@ To clone the repository to your local machine, run the following commands:
 
 ```bash
 git clone https://github.com/Lior30/cpp_app.git
-cd cpp_app
+cd cpp-app
 
