@@ -30,6 +30,6 @@ To run this application, you need to have the following installed:
 To clone the repository to your local machine, run the following commands:
 
 ```bash
-git clone https://github.com/Lior30/cpp_app.git
+git clone https://github.com/Lior30/cpp-app.git
 cd cpp-app
 
